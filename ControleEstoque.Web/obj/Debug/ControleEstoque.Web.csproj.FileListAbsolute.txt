@@ -1,0 +1,72 @@
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\ControleEstoque.Web.dll.config
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\ControleEstoque.Web.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\ControleEstoque.Web.pdb
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\Antlr3.Runtime.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\Newtonsoft.Json.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Helpers.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Mvc.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Optimization.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Razor.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\WebGrease.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Helpers.xml
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Mvc.xml
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Optimization.xml
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Razor.xml
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.xml
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\Newtonsoft.Json.xml
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\bin\Antlr3.Runtime.pdb
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.csprojResolveAssemblyReference.cache
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.dll
+c:\users\leonardo_alves\documents\visual studio 2013\Projects\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.pdb
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\ControleEstoque.Web.dll.config
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\ControleEstoque.Web.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\ControleEstoque.Web.pdb
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\Antlr3.Runtime.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\Newtonsoft.Json.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.Helpers.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.Mvc.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.Optimization.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.Razor.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Deployment.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Razor.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\WebGrease.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.Helpers.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.Mvc.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.Optimization.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.Razor.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Deployment.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Razor.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\Newtonsoft.Json.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\Antlr3.Runtime.pdb
+D:\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.pdb
+D:\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.csprojAssemblyReference.cache
+D:\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.csproj.CoreCompileInputs.cache
+D:\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.csproj.CopyComplete
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\Dapper.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\Dapper.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\EntityFramework.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\EntityFramework.SqlServer.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\EntityFramework.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\EntityFramework.SqlServer.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\AutoMapper.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.ValueTuple.dll
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\AutoMapper.pdb
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\AutoMapper.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\bin\System.ValueTuple.xml
+D:\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.Migrations.inicial.resources
+D:\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.csproj.GenerateResource.cache
+C:\LEONARDO\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.csprojResolveAssemblyReference.cache
+C:\LEONARDO\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.Migrations.inicial.resources
+C:\LEONARDO\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.csproj.GenerateResource.Cache
+C:\LEONARDO\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.dll
+C:\LEONARDO\projetos\ControleEstoque\ControleEstoque.Web\obj\Debug\ControleEstoque.Web.pdb

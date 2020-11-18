@@ -1,0 +1,25 @@
+AJUSTE 01- ajustar modal de cadastro de todos os cadastros, copiar de grupo produto
+veirificar se ele atualiza a paginação
+
+tela de alteração de senha, coloquei senha atual, no campo nova senha coloquei leo12 e na confirmação leo13, deu a mensagem de erro e posteriormente alterou a senha para leo12
+tela de alteração senha, ao alterar e nao colocar informação na senha, ele nao faz nada.. precisa validar e dar mensagem 
+tela de usuario tem um IF a mais do que as outras no metodo RecuperarLista
+tela de grupo produto, não paginou os registros
+tela de fornecedor, nao incluiu numero
+tela de fornecedor,  implantar pesquisa
+tela de produto, implementar filtro
+tela de perfil, erro ao vincular ao usuario
+tela de cidade, está duplicando os registros
+
+implementar a atualização da grade de resultado ao realizar ação
+
+ao ir a proxima pagina, a grade traz o ultimo registro da pagina anterior.... grupo de produto acho q é a mais completa
+
+ajustar paginação da grade, ele vai para 2 ou 3 mesmo sem registro
+
+==================================================================================================================
+
+
+ficar atento na index do produto pois copiei ela interia da branch, talvez terei que ajustar igual ao vini
+
+
